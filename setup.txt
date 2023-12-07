@@ -1,0 +1,7 @@
+https://www.souichi.club/raspberrypi/mpg321/
+
+sudo apt-get update
+sudo apt-get install mpg321
+pip install gTTS
+pip install pyaudio
+pip install playsound@git+https://github.com/taconi/playsound
